@@ -65,10 +65,10 @@ cat-dog-classifier/
 
 ## ⚙️ Installation & Setup
 
-### 1. Clone Repository
+### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/cat-dog-classifier.git
+git clone https://github.com/upeshknr/cat-dog-classifier.git
 cd cat-dog-classifier
 
 2. Install Dependencies
@@ -77,7 +77,10 @@ pip install -r requirements.txt
 3. Run Streamlit App
 streamlit run app.py
 
-📊 Model Performance
+```
+---
+
+### 📊 Model Performance
 
 High Training Accuracy
 
@@ -85,7 +88,7 @@ Stable Validation Accuracy
 
 Optimized to reduce Overfitting using Data Augmentation & Dropout
 
-🌐 Deployment
+### 🌐 Deployment
 
 The project is deployed using Streamlit, allowing users to:
 
@@ -95,7 +98,7 @@ Get instant classification results
 
 View prediction confidence
 
-🔮 Future Improvements
+### 🔮 Future Improvements
 
 Transfer Learning (ResNet / VGG16 / EfficientNet)
 
@@ -107,7 +110,7 @@ Cloud Deployment (AWS / GCP)
 
 Model Optimization & Hyperparameter Tuning
 
-📚 Learning Outcomes
+### 📚 Learning Outcomes
 
 Understanding CNN Architecture
 
@@ -119,22 +122,19 @@ Frontend Integration with ML Models
 
 Deployment of ML Applications
 
-🤝 Contributing
+### 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome.
 Feel free to fork this repository and submit a pull request.
 
-📜 License
 
-This project is open-source and available under the MIT License.
+### 👨‍💻 Author
 
-👨‍💻 Author
-
-Upesh Khairnar
-Linkdin : https://www.linkedin.com/in/upesh-khairnar/
-Aspiring Data Scientist & ML Enthusiast
+-- Upesh Khairnar
+-- Linkdin : https://www.linkedin.com/in/upesh-khairnar/
+-- Aspiring Data Scientist & ML Enthusiast
 
 
----
+
 
 
